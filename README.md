@@ -41,6 +41,3 @@ Java application layer with MySQL tables for products, customers, and transactio
 3. Configure your database connection details in the project.
 4. Run the Java application.
 
-## 🌐 Live Link
-
-👉 [https://optical-and-hardware-kdpw.bolt.host/](https://optical-and-hardware-kdpw.bolt.host/)
