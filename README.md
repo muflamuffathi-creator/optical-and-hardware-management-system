@@ -2,8 +2,6 @@
 
 **Store inventory, billing, and customer management in one system**
 
-🔗 **Live Demo:** [optical-and-hardware-kdpw.bolt.host](https://optical-and-hardware-kdpw.bolt.host/)
-
 ## 📋 Overview
 
 This system brings the day-to-day operations of an optical and hardware store into one focused workspace. It supports inventory updates, billing workflows, customer management, and clearer visibility into store activity through a practical Java and MySQL foundation.
